@@ -36,13 +36,13 @@
 
 ## Analytics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maxxsantos&show_icons=true&theme=gruvbox&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=maxxsantos&show_icons=true&theme=tokyonight&include_all_commits=true" />
 </div>
 
 <br></br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxxsantos&layout=compact&theme=gruvbox" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxxsantos&layout=compact&theme=tokyonight" />
 </div>
 
 
